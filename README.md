@@ -1,6 +1,2 @@
-### Hi there 👋
-
-![ColdForeign's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldforeign&show_icons=true&count_private=true&theme=radical&hide=stars,issues)
-
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldforeign&layout=compact&count_private=true&langs_count=6&theme=radical)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=coldforeign&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=stars,issues" alt="ColdForeign's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=coldforeign&exclude_repo=AdminPanel,BookLibrary,HTMLModalWindows&count_private=true&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
