@@ -1,3 +1,10 @@
+<!-- Light Mode -->
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile.gif)
+
+<!-- Dark Mode -->
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile_light.gif)
+
+
 <div align="center">
   <a href="https://github.com/coldforeign">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=coldforeign&count_private=true&include_all_commits=true&hide=stars,issues&show_icons=true&theme=react&hide_border=true&title_color=36bdff&icon_color=0077ff" alt="ColdForeign's github stats" />
