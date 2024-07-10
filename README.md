@@ -1,8 +1,8 @@
-<!-- Light Mode -->
-![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile.gif)
-
 <!-- Dark Mode -->
-![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile_light.gif)
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile.gif#gh-dark-mode-only)
+
+<!-- Light Mode -->
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/profile_light.gif#gh-light-mode-only)
 
 
 <div align="center">
