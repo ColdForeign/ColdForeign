@@ -5,18 +5,35 @@
 ![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/profile_light.gif#gh-light-mode-only)
 
 ### Languages, Frameworks and Tools:
+
 <!-- Dark Mode -->
-![](https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm,&theme=dark#gh-dark-mode-only)
+<p align="left">
+  <a href="/#gh-dark-mode-only">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm&theme=dark" />
+  </a>
+</p>
 
 <!-- Light Mode -->
-![](https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm,&theme=light#gh-light-mode-only)
+<p align="left">
+  <a href="/#gh-light-mode-only">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm&theme=light" />
+  </a>
+</p>
 
 ### Cloud Platforms and Services:
 <!-- Dark Mode -->
-![](https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=dark#gh-dark-mode-only)
+<p align="left">
+  <a href="/#gh-dark-mode-only">
+    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=dark#gh-dark-mode-only" />
+  </a>
+</p>
 
 <!-- Light Mode -->
-![](https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=light#gh-light-mode-only)
+<p align="left">
+  <a href="/#gh-light-mode-only">
+    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=light" />
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/coldforeign">
