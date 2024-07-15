@@ -5,35 +5,18 @@
 ![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/profile_light.gif#gh-light-mode-only)
 
 ### Languages, Frameworks and Tools:
-
 <!-- Dark Mode -->
-<p align="left">
-  <a href="/#gh-dark-mode-only">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm&theme=dark" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/MainSkills_Dark.svg#gh-dark-mode-only)
 
 <!-- Light Mode -->
-<p align="left">
-  <a href="/#gh-light-mode-only">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,css,html,postgresql,sass,react,git,wasm&theme=light" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/MainSkills_Light.svg#gh-light-mode-only)
 
 ### Cloud Platforms and Services:
 <!-- Dark Mode -->
-<p align="left">
-  <a href="/#gh-dark-mode-only">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=dark#gh-dark-mode-only" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/CloudSkills_Dark.svg#gh-dark-mode-only)
 
 <!-- Light Mode -->
-<p align="left">
-  <a href="/#gh-light-mode-only">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,docker,githubactions,terraform,aws,kubernetes,linux&theme=light" />
-  </a>
-</p>
+![](https://raw.githubusercontent.com/ColdForeign/ColdForeign/main/img/CloudSkills_Light.svg#gh-light-mode-only)
 
 <div align="center">
   <a href="https://github.com/coldforeign">
