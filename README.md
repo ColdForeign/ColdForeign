@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/coldforeign">
-    <img height="137px" src="https://github-readme-stats-pink-kappa.vercel.app/api?username=ColdForeign&hide_title=true&line_height=30&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&text_color=000&icon_color=000&bg_color=0,FFFF00,00BCD4,EE82EE&theme=graywhite" alt="ColdForeign's github stats" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats-pink-kappa.vercel.app/api/top-langs/?username=ColdForeign&text_bold=true&exclude_repo=AdminPanel,Diploma,BookLibrary,HTMLModalWindows&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,EE82EE,00D1FF&theme=graywhite" alt="ColdForeign's github stats" />
+    <img height="137px" src="https://github-readme-stats-pink-kappa.vercel.app/api?username=ColdForeign&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_title=true&line_height=30&hide_border=true&show_icons=true&include_all_commits=true&hide=issues,contribs&text_color=000&icon_color=000&bg_color=0,FFFF00,00BCD4,EE82EE&theme=graywhite" alt="ColdForeign's github stats" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats-pink-kappa.vercel.app/api/top-langs/?username=ColdForeign&text_bold=true&exclude_repo=AdminPanel,KinderBot-YS,TaskPicker,CropperBlazor.github.io,Diploma,BookLibrary,HTMLModalWindows&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,EE82EE,00D1FF&theme=graywhite" alt="ColdForeign's github stats" />
   </a>
 </div>
 
